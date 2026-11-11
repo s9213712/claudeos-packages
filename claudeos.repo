@@ -1,0 +1,7 @@
+[claudeos]
+name=claudeOS
+baseurl=https://s9213712.github.io/claudeos-packages/
+enabled=1
+gpgcheck=1
+repo_gpgcheck=0
+gpgkey=https://s9213712.github.io/claudeos-packages/RPM-GPG-KEY-claudeos
